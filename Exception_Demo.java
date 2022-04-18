@@ -19,5 +19,7 @@ public class Exception_Demo{
             System.out.println("Final block");
         }
         System.out.println("after finally");
+        s.close();
     }
+
 }

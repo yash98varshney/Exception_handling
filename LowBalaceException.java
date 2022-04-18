@@ -1,3 +1,5 @@
+package Exception_Handling;
+
 public class LowBalaceException extends Exception {
     
     @Override

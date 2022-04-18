@@ -33,7 +33,7 @@ public class CheckedUnchecked {
 
     static void fun3() throws LowBalaceException{
         fun2();
-        throw new LowBalaceException();
+        throw new LowBalaceException();  //object of Exception
     }
 
     //Checked exceptions
